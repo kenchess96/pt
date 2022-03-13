@@ -122,6 +122,7 @@ def gameLoop():
  
     pygame.quit()
     quit()
- 
+
+print('all')
  
 gameLoop()
