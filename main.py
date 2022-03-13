@@ -123,6 +123,6 @@ def gameLoop():
     pygame.quit()
     quit()
 
-print('all')
+print('Test')
  
 gameLoop()
